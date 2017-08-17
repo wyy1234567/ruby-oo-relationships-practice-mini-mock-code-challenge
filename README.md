@@ -24,7 +24,7 @@ The point of a code challenge is **NOT** to:
 
 _Do not expect every module to have a mock version of the code challenge. We are providing an example for the first module only as a way to familiarize you with the feel and structure of our code challenges. We want to remove some of the stress leading up to the first code challenge so that the results can be more indicative of what you have learned and less about how you may handle 'exam stress'.  Generally, we are careful not to 'teach to the test' and while we will be able to indicate what are the main areas to focus on we will not provide an example version of the code challenge_
 
-The information below is what you might expect to see when taking a new code challenge:
+The information below is what you might expect to see when taking a new code challenge. One point of note is that the code challenges _will not have tests_.  This is intentional. It is really important to practice writing and running code outside of the framework of the labs and tests. 
 
 ## Topics
 
